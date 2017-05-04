@@ -1,0 +1,1 @@
+It seems as though changing the amount of time the function should be debounced for affects whether or not it fails. At large numbers it always fails, at some lower numbers it sometimes fails, and then at very low numbers it never fails.
